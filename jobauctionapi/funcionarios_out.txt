@@ -1,0 +1,59 @@
+18
+Roberval da Silva
+Rua Teobaldo, N 100, Bairro Vila Rica, Sabara, MG
+33333333399
+roberval@gmail.com
+31999999999
+31988888888
+0 0 13 1 2 1 1 0 0 0 0 0 1 0 1 1 0  
+3 3 2 1 1 0 0 0 0 1  
+2
+T
+-1
+-1
+NULL 
+
+19
+Antonio Figueiredo
+Rua dos Olofortes, N 225, Bairro Rosas, Belo Horizonte, MG
+22222222288
+toninho@hotmail.com
+31977777777
+31966666666
+0 1 2 3 2 1 0 0 0 0 1 0 0 0 1 3 3  
+0 0 1 1 3 3 2 0 0 1  
+1
+T
+-1
+-1
+NULL 
+
+30
+Diego de Andrade
+Avenida Paracatu, N 108 apto 3, Bairro Centro, Belo Horizonte, MG
+12345678999
+diego@gmail.com
+31955555555
+31944444444
+1 1 2 1 1 1 0 0 0 3 3 3 1 1 0 0 0  
+2 2 1 1 1 3 2 1 1 0  
+3
+F
+1
+-1
+NULL 
+
+31
+Guilherme Motta de Jesus
+Avenida Padun, N 1101 apto 2, Bairro Floresta, Belo Horizonte, MG
+15145733565
+guilherme@gmail.com
+31988774455
+31922668844
+1 1 2 3 1 1 1 0 0 1 3 0 1 1 0 1 0  
+1 2 3 0 1 0 2 1 3 2  
+2
+T
+-1
+-1
+NULL 

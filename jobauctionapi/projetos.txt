@@ -1,0 +1,29 @@
+20
+J
+Empresa A
+donoA@gmail.com
+31988888888
+31977777777
+99999999000199
+2
+0
+3
+F
+F F F T F F F F F F T T F F F F F 
+3
+3 2 3 -1 0 7 2 1 -1 0 3 1 0 -1 0 
+
+30
+J
+Empresa B
+donoB@hotmail.com
+31966666666
+31955555555
+99999999000199
+3
+0
+1
+F
+F T F F F F F F F F F T F F F T T 
+5
+1 1 2 -1 0 7 1 3 -1 0 6 2 3 -1 0 2 2 8 -1 0 9 3 5 -1 0 

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510064970 source:e:\meus códigos de programação\programas em c\tp de otimização\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	"AlocaFacil.h"
+
+1500803279 e:\meus códigos de programação\programas em c\tp de otimização\alocafacil.h
+
