@@ -57,3 +57,33 @@ T
 -1
 -1
 NULL 
+
+39
+Guilherme Motta de Jesus
+Avenida Padun, N 1101 apto 2, Bairro Floresta, Belo Horizonte, MG
+15145733565
+guilherme@gmail.com
+31988774455
+31922668844
+1 1 2 3 1 1 1 0 0 1 3 0 1 1 0 1 0  
+1 2 3 0 1 0 2 1 3 2  
+2
+T
+-1
+-1
+NULL 
+
+38
+Guilherme Motta de Jesus
+Avenida Padun, N 1101 apto 2, Bairro Floresta, Belo Horizonte, MG
+15145733565
+guilherme@gmail.com
+31988774455
+31922668844
+1 1 2 3 1 1 1 0 0 1 3 0 1 1 0 1 0  
+1 2 3 0 1 0 2 1 3 2  
+2
+T
+-1
+-1
+NULL 
